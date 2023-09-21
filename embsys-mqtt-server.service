@@ -1,0 +1,13 @@
+[Unit]
+Description= final project mqtt server 
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/home/sina/Desktop/Project_98101685/FaceRecognition/src/mqtt_server.cpp
+StandardOutput=journal
+StandardError=journal
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
