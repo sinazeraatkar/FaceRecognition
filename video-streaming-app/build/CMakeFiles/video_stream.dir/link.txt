@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/video_stream.dir/src/video_stream.c.o -o video_stream  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

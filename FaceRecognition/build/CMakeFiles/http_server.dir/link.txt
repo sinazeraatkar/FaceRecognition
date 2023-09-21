@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/http_server.dir/src/http_server.cpp.o -o bin/http_server  -lpthread -lmysqlclient -lz -lzstd -lssl -lcrypto -lresolv -lm 
