@@ -1,8 +1,0 @@
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/install/strip.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/install/local.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/install.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/list_install_components.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/rebuild_cache.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/edit_cache.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/mqtt_server.dir
-/home/sina/Desktop/Project_98101685/FaceRecognition/build/CMakeFiles/http_server.dir
